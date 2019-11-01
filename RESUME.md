@@ -88,12 +88,10 @@ https://github.com/etby/DataCache
 * 了解 Flutter，能够适应使用Flutter开发
 * 熟练使用热门开源库 EventBus、Retrofit、OkHttp、Gson、Dagger、RxJava 等
 * 熟悉 AnnotationProcessor, 有注解处理框库开发经验, 能够使用 javapoet 编写基于注解处理器的框架
-* 熟悉 Maven 仓库的使用和搭建、Jenkins 持续集成打包流程
 
 #### 扩展能力
 
 - 了解iOS开发、了解 Objective-C、Swift
 - 了解跨平台开发框架 Weex、React Native、Flutter，能够根据技术选型快速上手
 - 有多个商业级项目从0到1的开发经验
-- 能够阅读并理解简单的英文文档
 - 了解服务器相关技术，比如：Docker、Kubernetes 
