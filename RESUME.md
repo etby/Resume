@@ -1,13 +1,14 @@
 
 ## 基本信息 ##
 
-* 昵称: Etby Gao
-* 年龄: 25
-* 工作经验：4年
+* 姓名：高博
+* 年龄: 26
+* 工作经验：5年
 * 电话 : 18294306003 ( 微信同号 )
-* 学历: 高中肄业, 自考在读
 * 邮箱 : etby.org@gmail.com
-* 目标职位 : 远程职位（ Android  研发工程师、移动端/大前端开发工程师 ）
+* 学历: 高中肄业, 自考在读
+  * 自学考试：北京邮电大学 —— 计算机及应用（专科） （预计2-3年毕业）
+* 目标职位 : 远程全栈工程师（全职/兼职）
 
 ## 工作经历 ##
 
@@ -47,8 +48,6 @@
 
 主要负责功能：播放器模块、数据存储框架设计等。优化稳定性，使平均崩溃率0.04%以下。开发基础库, 供音乐人和其他产品使用。
 
-开发涉及：热修复、模块化、开源库定制、注解框架等。
-
 技术栈：RxJava、Retrofit、OkHttp、DataBinding、Glide、zxing、Tinker等
 
 #### 其他项目
@@ -57,7 +56,7 @@
 
 **zxing** （裁剪优化）：优化和裁剪二维码库，提供简单统一的接口供业务客户端使用。
 
-**crm** （统计SDK）：发送统计到后端服务器，有自主的重试机制，不会有请求无法到达。
+**crm** （统计SDK）：发送统计到后端服务器，有自主的重试机制，有优秀的记录率。
 
 **xpress** (下载SDK)：基于OkHttp和Okio的分段下载库。
 
@@ -81,6 +80,14 @@ https://github.com/etby/DataCache
 
 ## 个人能力 ##
 
+### DevOps
+
+- 熟练 Linux 服务器的管理与操作，有多年服务器运维经验
+- 熟练使用 Ansible、Tmux 等服务器管理软件 
+- 熟悉使用 Docker，经常编写 Dockerfile 文件
+- 熟悉 Kubernetes，有线上集群正在运维。熟练编写 K8S 配置文件，熟练使用 Helm 部署服务。
+- 熟悉 Jenkins，使用其进行代码扫描与打包等工作 
+
 #### Android 
 
 * 熟练使用 Android Jetpack 框架, 熟悉MVVM编程
@@ -88,10 +95,22 @@ https://github.com/etby/DataCache
 * 了解 Flutter，能够适应使用Flutter开发
 * 熟练使用热门开源库 EventBus、Retrofit、OkHttp、Gson、Dagger、RxJava 等
 * 熟悉 AnnotationProcessor, 有注解处理框库开发经验, 能够使用 javapoet 编写基于注解处理器的框架
+* 了解 TDD，能够进行简单的测试驱动开发
 
-#### 扩展能力
+#### 全栈能力
+
+- 有多个商业级项目从0到1的开发经验
 
 - 了解iOS开发、了解 Objective-C、Swift
+
+- 了解前端开发，使用过 Vue、BootStrap 等前端开源项目
+
+- 有 SpringBoot 使用经验，使用过 Security、OAuth、Gateway 等组件
+
+- 使用过 Python，写过爬虫项目
+
 - 了解跨平台开发框架 Weex、React Native、Flutter，能够根据技术选型快速上手
-- 有多个商业级项目从0到1的开发经验
-- 了解服务器相关技术，比如：Docker、Kubernetes 
+
+- 写过一些用来学习的简单的微信小程序项目
+
+  
