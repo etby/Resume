@@ -1,26 +1,51 @@
-
 ## 基本信息 ##
 
-* 姓名：高博
-* 年龄: 26
-* 工作经验：5年
+### 高博
+
+男，26岁（1994年生），初中学历。
+
+4年安卓开发经验，1年全栈开发经验。
+
+#### 联系方式
+
 * 电话 : 18294306003 ( 微信同号 )
 * 邮箱 : etby.org@gmail.com
-* 学历: 高中肄业, 自考在读
-  * 自学考试：北京邮电大学 —— 计算机及应用（专科） （预计2-3年毕业）
-* 目标职位 : 远程全栈工程师（全职/兼职）
 
-## 工作经历 ##
+## 专业技能
 
-### 天水天注人圣信息科技有限公司 （2019.8 - 至今）
+**编程语言**：Java、Kotlin、HTML、CSS、JavaScript
 
-自己开公司创业，负责 CTO 岗位。
+**移动开发**：Android、Flutter
 
-主要负责公司内部服务搭建，服务器运维，Kubernetes 集群搭建和管理，网站的开发与上线。
+**前端开发**：React、Vue、Bootstrap
 
-其他时间接一些简单的外包，简单网站开发与小程序开发。
+**后端开发**：Spring、SpringBoot、SpringCloud、Node
 
-### 领创智信 ADVANCE.AI ( 2019.2 - 2019.6 )
+**DevOps**：Kubernetes、Jenkins
+
+## 工作经历
+
+|            公司            |       时间       |        岗位         |          项目           |
+| :------------------------: | :--------------: | :-----------------: | :---------------------: |
+|     小博工作室（创业）     |  2019.8 - 至今   | Full Stack Enginner |   自有项目、外包兼职    |
+|  领创智信 （ADVANCE.AI）   | 2019.2 - 2019.6  |  Android Engineer   |    UMMA（出海项目）     |
+|    北京博晨技术有限公司    | 2018.5 - 2018.12 |   安卓开发工程师    | ZipperOne（区块链项目） |
+|    北京周同科技有限公司    | 2017.11 - 2018.3 |   安卓开发工程师    |       短视频项目        |
+| 百度音乐（ 太合音乐集团 ） | 2015.8 - 2017.11 |   安卓研发工程师    |   百度音乐人、合音量    |
+
+## 项目经历
+
+### 小博工作室
+
+主要承担 SRE、DevOps、Full Stack Enginner 等职位工作。
+
+运维 Kubernetes 集群，熟悉 Docker、Helm、Ansible 等运维工具。
+
+搭建开发平台，基于 LDAP 认证，搭建 Jenkins、Harbor、GitLab 等开发平台，实现 CI/CD 流程。
+
+全栈开发，后端使用 Spring 家族、Node 等，前端使用：React、Vue、BootStrap 等，移动端使用：Flutter、Android JetPack 等
+
+### 领创智信 ADVANCE.AI
 
 #### 出海应用
 
@@ -28,17 +53,17 @@
 
 负责应用在 Play 上的发布、数据监控、问题修复等。
 
-### 北京博晨技术有限公司 ( 2018.5 - 2018.12 )
+### 北京博晨技术有限公司
 
 #### 区块链钱包项目
 
-主要负责Android端开发、架构设计、面试等等。后期有参与iOS端做一些简单的开发。
+主要负责Android端开发、架构设计、面试等等。
+
+项目涉及区块链协议，助记词与密钥导入，二进制流序列化与反序列化问题。
 
 项目使用Kotlin+Java进行开发，使用 Jetpack 主流相关技术，部分页面使用 React Native 进行开发。
 
-技术栈 ：Jetpack、React Native 以及其他常用框架
-
-### 北京周同科技有限公司（ 2017.11 - 2018.3 ）
+### 北京周同科技有限公司
 
 #### 短视频项目 
 
@@ -48,7 +73,7 @@
 
 技术栈：Dagger2、RxJava、Retrofit、OkHttp、DataBinding、Glide、Room等
 
-### 百度音乐（ 太合音乐集团 ）（ 2015.8 - 2017.11 ） ###
+### 百度音乐（ 太合音乐集团 ） ###
 
 #### 百度音乐人
 
@@ -68,25 +93,28 @@
 
 **xpress** (下载SDK)：基于OkHttp和Okio的分段下载库。
 
-## 个人项目
-
-### DataCache ( 2018 )
-
-https://github.com/etby/DataCache
-
-一个内存缓存框架。主要功能是将对象在内存中只保留一份。
-
-解决问题 : 数据对象内存缓存、多页面数据即时同步展示、多API数据合并、同步
-
-技术栈 : AnnotationProcessor、JavaPoet、LruCache、Gson、DataBInding 等
-
-### 工米 ( 2018 )
-
-个人外包项目，一个房屋装修相关的工作O2O应用。
-
-独立开发，纯 Kotlin 项目，涉及支付、录音、地图、分享等第三方技术。
-
 ## 个人能力 ##
+
+#### Android 
+
+* 熟练使用 Android Jetpack 框架, 熟悉MVVM编程
+* 熟悉 kotlin， 能够进行 kotlin & Java 混编或纯 kotlin 开发
+* 了解 Flutter，能够适应使用Flutter开发
+* 熟练使用热门开源库 EventBus、Retrofit、OkHttp、Gson、Dagger、RxJava 等
+* 熟悉 AnnotationProcessor, 有注解处理框库开发经验, 能够使用 javapoet 编写基于注解处理器的框架
+* 了解 TDD，能够进行测试驱动开发
+
+#### Full Stack
+
+- 有多个商业级项目从0到1的开发经验
+
+- 了解iOS开发、了解 Objective-C、Swift
+
+- 使用过 React、Vue、Bootstrap 等前端技术
+
+- 有 SpringBoot 使用经验，使用过 Security、OAuth、Gateway 等组件
+
+- 了解跨平台开发框架 Weex、React Native、Flutter，能够根据技术选型快速上手
 
 ### DevOps
 
@@ -96,29 +124,3 @@ https://github.com/etby/DataCache
 - 熟悉 Kubernetes，有线上集群正在运维。熟练编写 K8S 配置文件，熟练使用 Helm 部署服务。
 - 熟悉 Jenkins，使用其进行代码扫描与打包等工作 
 
-#### Android 
-
-* 熟练使用 Android Jetpack 框架, 熟悉MVVM编程
-* 熟悉 kotlin， 能够进行 kotlin & Java 混编或纯 kotlin 开发
-* 了解 Flutter，能够适应使用Flutter开发
-* 熟练使用热门开源库 EventBus、Retrofit、OkHttp、Gson、Dagger、RxJava 等
-* 熟悉 AnnotationProcessor, 有注解处理框库开发经验, 能够使用 javapoet 编写基于注解处理器的框架
-* 了解 TDD，能够进行简单的测试驱动开发
-
-#### 全栈能力
-
-- 有多个商业级项目从0到1的开发经验
-
-- 了解iOS开发、了解 Objective-C、Swift
-
-- 了解前端开发，使用过 Vue、BootStrap 等前端开源项目
-
-- 有 SpringBoot 使用经验，使用过 Security、OAuth、Gateway 等组件
-
-- 使用过 Python，写过爬虫项目
-
-- 了解跨平台开发框架 Weex、React Native、Flutter，能够根据技术选型快速上手
-
-- 写过一些用来学习的简单的微信小程序项目
-
-  
